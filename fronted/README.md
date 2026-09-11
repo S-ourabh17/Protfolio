@@ -2,8 +2,9 @@
 
 ## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I am a Computer Science student passionate about Java backend development.
+I work with Java, Spring Boot, SQL, and REST APIs. I enjoy building projects
+and solving challenging problems.
 
 ## Skills
 
