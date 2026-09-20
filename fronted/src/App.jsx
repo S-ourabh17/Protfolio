@@ -271,7 +271,7 @@ function App() {
                 </div>
 
                 <div>
-                    <strong>500+</strong>
+                    <strong>250+</strong>
                     <span>DSA Problems</span>
                 </div>
 
