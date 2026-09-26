@@ -584,7 +584,7 @@ function App() {
             {/* FOOTER */}
             <footer>
                 <div className="logo">
-                    S<span>.</span>
+                    Sourabh<span>.</span>
                 </div>
 
                 <p>Designed & built with React.</p>
