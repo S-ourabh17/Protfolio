@@ -569,7 +569,7 @@ function App() {
                         opportunities.
                     </p>
 
-                    <a className="emailButton" href="mailto:yourmail@example.com">
+                    <a className="emailButton" href="srbh9920@gmail.com">
                         Start a conversation ↗
                     </a>
 
