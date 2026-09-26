@@ -574,9 +574,9 @@ function App() {
                     </a>
 
                     <div className="contactLinks">
-                        <a href="#">GitHub</a>
-                        <a href="#">LinkedIn</a>
-                        <a href="#">Email</a>
+                        <a href="https://github.com/S-ourabh17">GitHub</a>
+                        <a href="https://www.linkedin.com/in/sourabh-7223a3362/">LinkedIn</a>
+                        <a href="srbh9920@gmail.com">Email</a>
                     </div>
                 </div>
             </section>
