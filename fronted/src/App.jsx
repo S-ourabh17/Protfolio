@@ -207,7 +207,7 @@ function App() {
                         <a href= "https://www.linkedin.com/in/sourabh-7223a3362/" target="_blank">
                             LinkedIn
                         </a>
-                        <a href="Sourabh_Resume.docx" target="_blank" rel="noopener noreferrer">
+                        <a href="/Sourabh_Resume.docx" target="_blank" rel="noopener noreferrer">
                             View Resume
                         </a>
                         <a href = "https://leetcode.com/u/Sharma_Srbh/" target="_blank">
