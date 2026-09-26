@@ -576,7 +576,7 @@ function App() {
                     <div className="contactLinks">
                         <a href="https://github.com/S-ourabh17">GitHub</a>
                         <a href="https://www.linkedin.com/in/sourabh-7223a3362/">LinkedIn</a>
-                        <a href="srbh9920@gmail.com">Email</a>
+                        <a href="mailto:srbh9920@gmail.com">Email</a>
                     </div>
                 </div>
             </section>
