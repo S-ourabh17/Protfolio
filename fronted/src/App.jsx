@@ -21,8 +21,8 @@ const projects = [
         demo: "#",
     },
     {
-        title: "Student Management System",
-        category: "Full Stack",
+        title: "Hospital Management System",
+        category: "Backend System",
         description:
             "Complete college management platform for students, teachers, classes, timetable and fees.",
         tech: ["React", "Java", "Spring Boot", "JPA"],
