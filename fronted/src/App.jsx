@@ -267,7 +267,7 @@ function App() {
             {/* STATS */}
             <section className="stats">
                 <div>
-                    <strong>20+</strong>
+                    <strong>3+</strong>
                     <span>Projects Built</span>
                 </div>
 
