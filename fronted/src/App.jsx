@@ -28,8 +28,9 @@ const projects = [
         tech: ["MySQL", "Java", "Spring Boot", "JPA"],
         github: "#",
         demo: "#",
-    },
-    {
+    }
+    ];
+    /*{
         title: "Real-Time Chat Application",
         category: "Full Stack",
         description:
