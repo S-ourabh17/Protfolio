@@ -181,7 +181,7 @@ function App() {
                     </h2>
 
                     <p className="heroDescription">
-                        I build scalable backend systems, beautiful interfaces and
+                        I build scalable backend systems, interfaces and
                         production-ready applications that solve real-world problems.
                     </p>
 
