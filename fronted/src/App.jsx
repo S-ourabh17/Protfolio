@@ -24,8 +24,8 @@ const projects = [
         title: "Hospital Management System",
         category: "Backend System",
         description:
-            "Complete college management platform for students, teachers, classes, timetable and fees.",
-        tech: ["React", "Java", "Spring Boot", "JPA"],
+            "Hospital Management System is a backend REST API application built using Java, Spring Boot, Spring Data JPA, and MySQL. It provides functionality to manage patients, doctors, and appointments through CRUD operations, with support for appointment booking and status management. .",
+        tech: ["MySQL", "Java", "Spring Boot", "JPA"],
         github: "#",
         demo: "#",
     },
