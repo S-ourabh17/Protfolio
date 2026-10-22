@@ -297,8 +297,9 @@ function App() {
                 <div className="aboutGrid">
                     <div className="aboutText reveal">
                         <p>
-                            I'm a software developer passionate about creating reliable,
-                            scalable and elegant software.
+                            Third year computer science students st galgotias university. Having good understanding
+                            in data structure and algorithm(DSA). solved problem on platform like leetcode and geeksforgeeks(gfg)
+
                         </p>
 
                         <p>
