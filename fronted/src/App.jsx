@@ -16,7 +16,7 @@ const projects = [
         category: "Full Stack",
         description:
             "Dynamic shopping platform with products, categories, cart, orders and payment workflow.",
-        tech: ["React", "Spring Boot", "MySQL", "REST API"],
+        tech: ["Spring Boot", "MySQL", "REST API", "JPA", "Java"],
         github: "#",
         demo: "#",
     },
